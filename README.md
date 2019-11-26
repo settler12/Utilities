@@ -1,4 +1,4 @@
-# Audio Conversion with Sox (Ubuntu18.04
+# Audio Conversion with Sox (Ubuntu18.04)
 
 It is a simple and useful ubuntu script 
 to convert some pcm files as raw audio files(headerless audio file) into wav formatted files.
